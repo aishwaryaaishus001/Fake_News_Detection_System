@@ -1,10 +1,5 @@
 # ===============================
 # Title: Fuzzy Deep Hybrid Network (FDHN) for Fake News Detection
-# Author: Cheng Xu
-# Create Date: Apr 21, 2023
-# Revision Date: Otc 23, 2023
-# Github: https://github.com/chengxuphd/FDHN
-# DOI: https://doi.org/10.1145/3628797.3628971
 # Description: This is the source code of FDHN model. The dataset used in this code is LIAR (https://www.cs.ucsb.edu/~william/data/liar_dataset.zip).
 # Notes: This is code for the BT+TC+CB+FZ experiment.
 # ===============================
